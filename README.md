@@ -1,2 +1,2 @@
 # MyFirstRepository
-A Sample Repository
+A bit different to Team Foundation Server ;-)
